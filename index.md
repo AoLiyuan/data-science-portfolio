@@ -2,7 +2,7 @@
 
 ## Introduction
 你好！我是Anya，目前正在学习数据科学相关课程。我热衷于将复杂的数据转化为直观的可视化图表，以辅助商业和政策决策。本作品集展示了我在数据清洗、网络分析和可视化方面的实践能力。
-Hello! I’m Anya, and I am currently studying data science. I am passionate about transforming complex data into intuitive visualizations to support decision-making in business and policy. This portfolio showcases my practical skills in data cleaning, network analysis, and visualization.
+//Hello! I’m Anya, and I am currently studying data science. I am passionate about transforming complex data into intuitive visualizations to support decision-making in business and policy. This portfolio showcases my practical skills in data cleaning, network analysis, and visualization.
 
 ## 技术技能 Technical Skills
 - **编程语言**：Python (Pandas, Matplotlib, Seaborn, NetworkX)
