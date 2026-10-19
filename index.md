@@ -1,6 +1,5 @@
 # My Data Science Portfolio
 
-*Last updated: October 2026*
 
 ## About Me
 
@@ -41,19 +40,19 @@ Guangzhou (0.337 → 0.026) to Qinzhou (0.005 → 0.447).
 
 **Figure 1 — Freight network before and after the canal:**
 
-![Network reconfiguration](https://raw.githubusercontent.com/YOUR_USERNAME/data-science-project/main/outputs/fig1_network_maps.png)
+https://github.com/AoLiyuan/data-science-project/blob/main/fig1_network_maps.png
 
 **Figure 2 — Port throughput, berth utilization, lock queuing and hub
 centrality:**
 
-![Port and lock analysis](https://raw.githubusercontent.com/YOUR_USERNAME/data-science-project/main/outputs/fig3_port_and_lock.png)
+https://github.com/AoLiyuan/data-science-project/blob/main/fig2_od_cost_distance.png
 
 **Figure 3 — Infrastructure versus coordination gains:**
 
-![Sensitivity analysis](https://raw.githubusercontent.com/YOUR_USERNAME/data-science-project/main/outputs/fig4_centrality_sensitivity.png)
+https://github.com/AoLiyuan/data-science-project/blob/main/fig3_port_and_lock.png
 
 **Project repository:**
-https://github.com/YOUR_USERNAME/data-science-project
+https://github.com/AoLiyuan/data-science-project.git
 
 **Current status:** Completed (future iteration: replace the synthetic OD
 matrix with customs/port-authority data and move to a discrete-event
@@ -65,4 +64,4 @@ simulation).
 
 | Project | Repository | Status |
 |---|---|---|
-| Pinglu Canal River–Sea Intermodal Logistics Efficiency Analysis | [data-science-project](https://github.com/YOUR_USERNAME/data-science-project) | Completed |
+| Pinglu Canal River–Sea Intermodal Logistics Efficiency Analysis | (https://github.com/AoLiyuan/data-science-project.git)) | Completed |
