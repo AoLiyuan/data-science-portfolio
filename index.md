@@ -41,16 +41,16 @@ Guangzhou (0.337 → 0.026) to Qinzhou (0.005 → 0.447).
 
 **Figure 1 — Freight network before and after the canal:**
 
-![Network reconfiguration](https://raw.githubusercontent.com/AoLiyuan/data-science-project/main/fig1_network_maps.png)
+![Figure 1 Network Map](https://raw.githubusercontent.com/AoLiyuan/data-science-project/main/fig1_network_maps.png)
 
 **Figure 2 — Port throughput, berth utilization, lock queuing and hub
 centrality:**
 
-![Port and lock analysis](https://raw.githubusercontent.com/AoLiyuan/data-science-project/main/fig3_port_and_lock.png)
+![Figure 2 OD Cost Distance](fig2_od_cost_distance.png)
 
 **Figure 3 — Infrastructure versus coordination gains:**
 
-![Sensitivity analysis](https://raw.githubusercontent.com/AoLiyuan/data-science-project/main/fig4_centrality_sensitivity.png)
+![Figure 3 Port and Lock](fig3_port_and_lock.png)
 
 **Project repository:**
 https://github.com/AoLiyuan/data-science-project
