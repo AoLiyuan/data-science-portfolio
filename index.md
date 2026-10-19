@@ -1,32 +1,68 @@
-AO LIYUAN
+# My Data Science Portfolio
 
-## Introduction
-你好！我是Anya，目前正在学习数据科学相关课程。我热衷于将复杂的数据转化为直观的可视化图表，以辅助商业和政策决策。本作品集展示了我在数据清洗、网络分析和可视化方面的实践能力。
-Hello! I’m Anya, and I am currently studying data science. I am passionate about transforming complex data into intuitive visualizations to support decision-making in business and policy. This portfolio showcases my practical skills in data cleaning, network analysis, and visualization.
+*Last updated: October 2026*
 
-## 技术技能 Technical Skills
-- **编程语言Programming Language**：Python (Pandas, Matplotlib, Seaborn, NetworkX)
-- **数据分析Data Analysis**：数据清洗、模拟测算、敏感性分析
-- **工具与平台Tools and Platforms**：Jupyter Notebook, Git, GitHub, GitHub Pages
+## About Me
+
+Hi, I'm a graduate student studying data science and computing. This
+portfolio presents end-to-end data-science projects I have built, from
+problem framing and data sourcing to modelling, visualization, and
+reproducible documentation.
+
+**Technical skills:** Python (pandas, NumPy, Matplotlib, NetworkX), Jupyter
+Notebook, graph/network analysis, queuing simulation, scenario and
+sensitivity analysis, Git, GitHub, and GitHub Pages.
+
+---
+
+## Featured Project
+
+### Pinglu Canal River–Sea Intermodal Logistics Efficiency Analysis
+*A simulation of port coordination and freight network reconfiguration*
+
+**Research question.** The Pinglu Canal (opened 16 September 2026; 134.2 km;
+5,000-tonne vessels) creates a southward river-to-sea route from Guangxi's
+inland ports to Qinzhou Port on the Beibu Gulf. How much does the canal, and
+how much do *operational* coordination measures (joint lock scheduling,
+river–sea direct vessels, shared berths), improve logistics efficiency and
+reconfigure the gateway network between Guangzhou and Qinzhou?
+
+**What I did.** I built a directed freight network (waterway, canal, coastal
+and ocean links) with NetworkX, assigned deterministic illustrative OD
+flows using generalized-cost shortest paths, modelled the three locks and
+port berths as M/M/c queues, and compared three scenarios: baseline (S0),
+canal open (S1), and canal plus coordination (S2).
+
+**Key finding.** The canal reduces weighted door-to-door logistics cost by
+**23.5%** and the full coordination package by **27.7%**, reproducing the
+officially reported 18–30% range. The inland leg from Nanning shortens by
+about 536 km, and weighted betweenness centrality shifts sharply from
+Guangzhou (0.337 → 0.026) to Qinzhou (0.005 → 0.447).
+
+**Figure 1 — Freight network before and after the canal:**
+
+![Network reconfiguration](https://raw.githubusercontent.com/YOUR_USERNAME/data-science-project/main/outputs/fig1_network_maps.png)
+
+**Figure 2 — Port throughput, berth utilization, lock queuing and hub
+centrality:**
+
+![Port and lock analysis](https://raw.githubusercontent.com/YOUR_USERNAME/data-science-project/main/outputs/fig3_port_and_lock.png)
+
+**Figure 3 — Infrastructure versus coordination gains:**
+
+![Sensitivity analysis](https://raw.githubusercontent.com/YOUR_USERNAME/data-science-project/main/outputs/fig4_centrality_sensitivity.png)
+
+**Project repository:**
+https://github.com/YOUR_USERNAME/data-science-project
+
+**Current status:** Completed (future iteration: replace the synthetic OD
+matrix with customs/port-authority data and move to a discrete-event
+simulation).
 
 ---
 
-## 项目展示 (Project Showcase)
+## Projects
 
-### 平陆运河江海联运物流效率提升分析：基于港口协同与网络重构的模拟测算Pinglu Canal River–Sea Intermodal Logistics Efficiency Analysis
-**研究问题 (Research Question):**
-相比传统西江-珠三角路径，平陆运河（结合马道、企石、青年三大枢纽协同）能为西南地区大宗货物节省多少运输时间和综合物流成本？
-
-**可视化与发现 (Visualization and Findings):**
-![平陆运河物流效率提升对比](images/viz2_efficiency.png)
-
-*图表说明：基于规划数据的模拟测算显示，平陆运河路径相比传统路径，可节省约 5-8 天的运输时间，综合物流成本指数预计降低 25%，且转运次数从 3 次降至 1 次。*
-
-**项目状态 (Current Status):** 
-Completed and ongoing for perfect (已完成)
-
-**项目仓库链接 (Project Repository):**
-👉 [点击查看项目源代码与完整分析](https://github.com/[你的GitHub用户名]/data-science-project)
-
----
-*This portfolio was created for the CISC7204 course.*
+| Project | Repository | Status |
+|---|---|---|
+| Pinglu Canal River–Sea Intermodal Logistics Efficiency Analysis | [data-science-project](https://github.com/YOUR_USERNAME/data-science-project) | Completed |
