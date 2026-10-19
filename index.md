@@ -46,11 +46,11 @@ Guangzhou (0.337 → 0.026) to Qinzhou (0.005 → 0.447).
 **Figure 2 — Port throughput, berth utilization, lock queuing and hub
 centrality:**
 
-![Figure 2 OD Cost Distance](fig2_od_cost_distance.png)
+![Figure 2 OD Cost Distance](https://raw.githubusercontent.com/AoLiyuan/data-science-project/main/fig2_od_cost_distance.png)
 
 **Figure 3 — Infrastructure versus coordination gains:**
 
-![Figure 3 Port and Lock](fig3_port_and_lock.png)
+![Figure 3 Port and Lock](https://raw.githubusercontent.com/AoLiyuan/data-science-project/main/fig3_port_and_lock.png)
 
 **Project repository:**
 [data-science-project](https://github.com/AoLiyuan/data-science-project) 
