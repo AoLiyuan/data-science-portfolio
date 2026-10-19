@@ -53,7 +53,7 @@ centrality:**
 ![Figure 3 Port and Lock](fig3_port_and_lock.png)
 
 **Project repository:**
-https://github.com/AoLiyuan/data-science-project
+[data-science-project](https://github.com/AoLiyuan/data-science-project) 
 
 **Current status:** Completed (future iteration: replace the synthetic OD
 matrix with customs/port-authority data and move to a discrete-event
